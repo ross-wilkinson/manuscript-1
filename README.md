@@ -1,1 +1,1 @@
-# osf-wilkinson-manuscript-1-MoSaNSC
+# manuscript-1
